@@ -15,10 +15,7 @@ Este proyecto es una herramienta en Python para reducir el tamaño de archivos d
 
 ### Instalación
 1. Clona el repositorio:
-    ```bash
-    git clone https://github.com/tu_usuario/tu_proyecto.git
-    cd tu_proyecto
-    ```
+
 
 2. Instala las dependencias:
     ```bash
